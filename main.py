@@ -9,6 +9,7 @@ def get_weather(city, open_weather_token):
         )
         weather = req.json()
         city = weather["name"]
+        print(city)
 
     except Exception as ex:
         print("Please, try again!")
