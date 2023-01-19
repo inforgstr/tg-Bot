@@ -5,4 +5,4 @@ Here is an example of simple telegram.
 parsing weather info.
 
 
-Author(inforgstr)
+Author - inforgstr
