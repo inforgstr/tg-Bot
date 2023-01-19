@@ -1,5 +1,2 @@
 # Telegram Bot (SOURCE CODE)
-Here is an example of simple telegram bot made in python.
-
-
-Author - inforgstr.
+Here is an example of simple telegram bot made by inforgstr.
