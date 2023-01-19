@@ -1,2 +1,5 @@
 # Telegram Bot (SOURCE CODE)
-Here is an example of simple telegram bot made by inforgstr.
+Here is an example of simple telegram.
+
+# Facilities
+parsing weather info.
