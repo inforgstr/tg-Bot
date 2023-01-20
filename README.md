@@ -17,4 +17,4 @@ Once the bot is running, you can use the command `/start` to get the current wea
 If you'd like to contribute to this project, please feel free to submit a pull request.
 
 # Note
-Bot gives only 1 day's information.
+Bot gives only day's information.
