@@ -11,8 +11,10 @@ Once you have the API key set up, you can run the bot using the `python main.py`
 
 ## Using the Bot
 
-Once the bot is running, you can use the command `/weather` to get the current weather at your location. You can also use the `/forecast` command to get a 5-day forecast for your area.
-
+Once the bot is running, you can use the command `/start` to get the current weather at your location. 
 ## Contributing
 
 If you'd like to contribute to this project, please feel free to submit a pull request.
+
+# Note
+Bot gives only 1 day's information.
