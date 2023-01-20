@@ -5,4 +5,4 @@ Here is an example of simple telegram bot.
 parsing weather info.
 
 # Note
-Use `pip install -r <file_name>` to install requirements versions of packages.
+Use `pip install -r <file_name>` to install packages' version.
