@@ -1,4 +1,2 @@
-TOKEN = "your bot's token"  # from tg - @botfather
+TOKEN = "your bot token"  # from tg - bot father
 API = "your personal - open weather token"  # from openweather.com
-
-print(123)
